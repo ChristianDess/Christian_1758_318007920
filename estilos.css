@@ -1,0 +1,35 @@
+h1 {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+p {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding-bottom: 50px;
+}
+
+#A1 {
+    width: 1000px;
+}
+
+#A2 {
+    width: 1000px;
+    height: 100px;
+}
+
+#A3 {
+    width: 100px;
+    height: 1000px;
+}
+
+a {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
